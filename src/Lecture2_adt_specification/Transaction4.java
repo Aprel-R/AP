@@ -1,7 +1,5 @@
 package Lecture2_adt_specification;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.util.Calendar;
 //import java.util.Date;
 

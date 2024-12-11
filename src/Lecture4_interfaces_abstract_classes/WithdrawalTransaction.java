@@ -1,7 +1,5 @@
 package Lecture4_interfaces_abstract_classes;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.util.Calendar;
 
 public class WithdrawalTransaction extends BaseTransaction {

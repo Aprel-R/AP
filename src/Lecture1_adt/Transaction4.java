@@ -1,7 +1,5 @@
 package Lecture1_adt;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.util.Calendar;
 /**
  * There is still Exposure seen in Transaction3 in that if we make a list of 12 payments,

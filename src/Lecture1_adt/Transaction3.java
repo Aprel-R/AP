@@ -1,7 +1,5 @@
 package Lecture1_adt;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.util.Calendar;
 
 /**
